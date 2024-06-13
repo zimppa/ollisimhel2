@@ -1,0 +1,44 @@
+Consultant Time Entry
+--------------------
+Consultant name: Markus Doe
+Customer Name: Burger King Corp
+Time started working: 2022-06-01 09:00:00
+Time stopped working: 2022-06-01 17:00:00
+How long lunchbreak they had?: 47
+--------------------
+Consultant name: John Doe
+Customer Name: ABC Corp
+Time started working: 2023-07-01 03:00:00
+Time stopped working: 2023-07-01 12:00:00
+How long lunchbreak they had?: 60
+--------------------
+Consultant name: Jane Smith
+Customer Name: Beta Inc
+Time started working: 2024-06-02 10:00:00
+Time stopped working: 2024-06-02 18:00:00
+How long lunchbreak they had?: 45
+--------------------
+Consultant name: Alice Johnson
+Customer Name: Gamma LLC
+Time started working: 2024-06-03 08:30:00
+Time stopped working: 2024-06-03 16:30:00
+How long lunchbreak they had?: 30
+--------------------
+Consultant name: Bob Brown
+Customer Name: Delta Ltd
+Time started working: 2024-06-04 11:00:00
+Time stopped working: 2024-06-04 19:00:00
+How long lunchbreak they had?: 60
+--------------------
+Consultant name: Charlie White
+Customer Name: Epsilon GmbH
+Time started working: 2024-06-05 07:00:00
+Time stopped working: 2024-06-05 15:00:00
+How long lunchbreak they had?: 30
+--------------------
+Consultant name: David Green
+Customer Name: Zeta Enterprises
+Time started working: 2024-06-06 08:00:00
+Time stopped working: 2024-06-06 16:00:00
+How long lunchbreak they had?: 45
+--------------------
